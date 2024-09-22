@@ -1,0 +1,266 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/berries.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/myskylabs.png",
+            "ascent": 90,
+            "height": 90,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/promo.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/sternenkoenig.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/himmelshueter.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/wolkenmeister.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/nebelkrieger.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/spieler.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/team.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uF020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/glass.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "\uF021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/crystal.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": [
+                "\uF023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": [
+                "\uF024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/players.png",
+            "ascent": 18,
+            "height": 18,
+            "chars": [
+                "\uF025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/ping.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/meteorritter.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/myskylabs_two.png",
+            "ascent": 50,
+            "height": 50,
+            "chars": [
+                "\uF028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/myskylabs_three.png",
+            "ascent": 50,
+            "height": 160,
+            "chars": [
+                "\uF029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/closedbeta.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uF030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/myskylabs_tab.png",
+            "ascent": 35,
+            "height": 35,
+            "chars": [
+                "\uF031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/skyblock.png",
+            "ascent": 180,
+            "height": 180,
+            "chars": [
+                "\uF032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/version.png",
+            "ascent": 11,
+            "height": 11,
+            "chars": [
+                "\uF033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/nether.png",
+            "ascent": 150,
+            "height": 150,
+            "chars": [
+                "\uF034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/quit.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": [
+                "\uF035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/trade.png",
+            "ascent": 9,
+            "height": 73,
+            "chars": [
+                "\uF036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/pixel.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": [
+                "七"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/blackmarket.png",
+            "ascent": 34,
+            "height": 165,
+            "chars": [
+                "\uF037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/beppo.png",
+            "ascent": 8,
+            "height": 133,
+            "chars": [
+                "\uF038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/smith_one.png",
+            "ascent": 8,
+            "height": 120,
+            "chars": [
+                ""
+            ]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/forge_menu.png",
+            "ascent": 5,
+            "height": 260,
+            "chars": [
+                ""
+            ]
+        }
+    ]
+}

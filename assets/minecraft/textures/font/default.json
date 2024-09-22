@@ -1,0 +1,51 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/default"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/unifont"
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:textures/sb/berries",
+            "ascent": 50,
+            "height": 1,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/island",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/money",
+            "ascent": 11,
+            "height": 11,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/worldfile",
+            "ascent": 22,
+            "height": 22,
+            "chars": ["🌍"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/myskylabs",
+            "ascent": 22,
+            "height": 22,
+            "chars": ["\uE005"]
+        }
+    ]
+}

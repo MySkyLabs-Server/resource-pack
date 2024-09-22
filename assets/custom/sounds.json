@@ -1,0 +1,10 @@
+{
+  "whispers": {
+    "sounds": [
+      "custom:whispers"]
+    },
+  "chant": {
+    "sounds": [
+      "custom:priest_chant"]
+    }
+}

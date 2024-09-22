@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "texture_size": [368, 368],
+  "textures": {
+    "layer0": "minecraft:item/wasserat"
+	}
+}

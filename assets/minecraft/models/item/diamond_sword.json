@@ -1,0 +1,92 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/diamond_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "custom/bord"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "custom/irrlicht"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "custom/helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "custom/miner"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "custom/drink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "custom/foxear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "custom/king"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "custom/devil"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "custom/fisherhat"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1009
+            },
+            "model": "custom/flowering"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "custom/ufo_companion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2001
+            },
+            "model": "custom/air_balloon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002
+            },
+            "model": "custom/sign_pvp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003
+            },
+            "model": "custom/sign_shop"
+        }
+    ]
+}

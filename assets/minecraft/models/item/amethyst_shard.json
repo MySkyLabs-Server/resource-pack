@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/amethyst_shard"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/seelenkristall"
+    },
+	 {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/seelenkristall_eins"
+    },
+    {
+       "predicate": {
+         "custom_model_data": 3
+       },
+       "model": "minecraft:item/soulnet"
+     },
+     {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "minecraft:custom/soul_extractor"
+      },
+      {
+         "predicate": {
+           "custom_model_data": 5
+         },
+         "model": "minecraft:custom/beppo"
+       }
+  ]
+}

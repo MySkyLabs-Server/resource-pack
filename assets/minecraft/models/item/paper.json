@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+ 
+ "overrides": [
+   {"predicate": {"custom_model_data":1001}, "model": "custom/ticket"},
+   {"predicate": {"custom_model_data":1002}, "model": "item/ticket"},
+   { "predicate": { "custom_model_data": 2001 }, "model": "loots/cs_iron_bobber" },
+   { "predicate": { "custom_model_data": 2002 }, "model": "loots/cs_red_bobber" },
+   { "predicate": { "custom_model_data": 2003 }, "model": "loots/cs_yellow_bobber" },
+ 
+   { "predicate": { "custom_model_data": 2004 }, "model": "loots/cs_black_pearl" },
+   { "predicate": { "custom_model_data": 2005 }, "model": "loots/cs_white_pearl" },
+   { "predicate": { "custom_model_data": 2006 }, "model": "loots/cs_copper_chest" },
+   { "predicate": { "custom_model_data": 2007 }, "model": "loots/cs_iron_chest" },
+   { "predicate": { "custom_model_data": 2008 }, "model": "loots/cs_golden_chest" },
+ 
+   { "predicate": { "custom_model_data": 2009 }, "model": "loots/cs_fish_bait_blue" },
+   { "predicate": { "custom_model_data": 2010 }, "model": "loots/cs_fish_bait_green" },
+   { "predicate": { "custom_model_data": 2011 }, "model": "loots/cs_fish_bait_red" },
+ 
+   { "predicate": { "custom_model_data": 2012 }, "model": "loots/cs_gilded_line" },
+   { "predicate": { "custom_model_data": 2013 }, "model": "loots/cs_gilded_pole" },
+ 
+   { "predicate": { "custom_model_data": 2014 }, "model": "loots/cs_deepblue_line" },
+   { "predicate": { "custom_model_data": 2015 }, "model": "loots/cs_deepblue_pole" },
+   { "predicate": { "custom_model_data": 3016 }, "model": "archeology/arch_amber_lamp" },
+   { "predicate": { "custom_model_data": 3017 }, "model": "container/question_container" },
+   { "predicate": { "custom_model_data": 3018 }, "model": "plants_props/lemon_stage_five" }
+ ]
+}
