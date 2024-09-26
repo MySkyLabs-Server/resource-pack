@@ -256,7 +256,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:sb/forge_menu.png",
-            "ascent": 5,
+            "ascent": 10,
             "height": 260,
             "chars": [
                 ""
