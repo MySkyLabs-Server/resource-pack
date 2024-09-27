@@ -27,7 +27,6 @@
    { "predicate": { "custom_model_data": 2014 }, "model": "loots/cs_deepblue_line" },
    { "predicate": { "custom_model_data": 2015 }, "model": "loots/cs_deepblue_pole" },
    { "predicate": { "custom_model_data": 3016 }, "model": "archeology/arch_amber_lamp" },
-   { "predicate": { "custom_model_data": 3017 }, "model": "container/question_container" },
    { "predicate": { "custom_model_data": 3018 }, "model": "plants_props/lemon_stage_five" }
  ]
 }

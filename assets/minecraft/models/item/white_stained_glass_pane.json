@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/white_stained_glass"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 3001
+      },
+      "model": "minecraft:container/arrow_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3002
+      },
+      "model": "minecraft:container/arrow_down"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3003
+      },
+      "model": "minecraft:container/question_container"
+    }
+  ]
+}
