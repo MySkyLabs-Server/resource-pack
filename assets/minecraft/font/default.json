@@ -278,6 +278,15 @@
             "chars": [
                 "\uf03f"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/verzauberungen.png",
+            "ascent": 10,
+            "height": 260,
+            "chars": [
+                "\uf040"
+            ]
         }
     ]
 }
