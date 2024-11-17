@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:item/grappling_bow"
+		"0": "item/grappling_bow"
 	},
 	"elements": [
 		{
@@ -357,6 +357,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [84.46, -84.08, 77.21],
@@ -367,12 +368,12 @@
 			"translation": [0.75, 8.5, 0]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -98, 0],
-			"translation": [0, 8.5, 0]
+			"rotation": [-163, -86, 177],
+			"translation": [1.25, 10, 2.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-10, 92, -3],
-			"translation": [1.25, 8.5, -1.5]
+			"rotation": [-163, 88, 177],
+			"translation": [1.75, 10.5, 2.25]
 		},
 		"ground": {
 			"translation": [0, 5, 0],
