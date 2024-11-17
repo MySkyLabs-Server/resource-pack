@@ -21,6 +21,48 @@
         "custom_model_data": 3003
       },
       "model": "minecraft:container/question_container"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3004
+      },
+      "model": "minecraft:container/komprimieren"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3005
+      },
+      "model": "minecraft:container/bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3006
+      },
+      "model": "minecraft:container/hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3007
+      },
+      "model": "minecraft:container/pressed_hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3008
+      },
+      "model": "minecraft:container/pressed_komprimieren"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3009
+      },
+      "model": "minecraft:container/pressed_bundle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3010
+      },
+      "model": "minecraft:container/x"
     }
   ]
 }
