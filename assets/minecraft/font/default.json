@@ -287,6 +287,24 @@
             "chars": [
                 "\uf040"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/daily_rewards.png",
+            "ascent": 10,
+            "height": 260,
+            "chars": [
+                "\uf041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/quests_menu.png",
+            "ascent": 10,
+            "height": 260,
+            "chars": [
+                "\uf042"
+            ]
         }
     ]
 }
