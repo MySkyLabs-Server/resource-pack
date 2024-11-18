@@ -5,6 +5,9 @@
   },
  
   "overrides": [
-    {"predicate": {"custom_model_data":1001}, "model": "item/sword_fire_aspect"}
+    {"predicate": {"custom_model_data":1001}, "model": "item/sword_fire_aspect"},
+    {"predicate": {"custom_model_data":1002}, "model": "weapons/moon_daggers"},
+    {"predicate": {"custom_model_data":1003}, "model": "weapons/soul_daggers"},
+    {"predicate": {"custom_model_data":1004}, "model": "weapons/sichel_silver"}
   ]
 }
