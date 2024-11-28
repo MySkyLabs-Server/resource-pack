@@ -305,6 +305,24 @@
             "chars": [
                 "\uf042"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_island.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/island_set_1.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf044"
+            ]
         }
     ]
 }

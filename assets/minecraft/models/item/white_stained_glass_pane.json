@@ -63,6 +63,36 @@
         "custom_model_data": 3010
       },
       "model": "minecraft:container/x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3011
+      },
+      "model": "minecraft:container/arrow_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3012
+      },
+      "model": "minecraft:container/arrow_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3013
+      },
+      "model": "minecraft:container/settings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3014
+      },
+      "model": "minecraft:container/toggle_on"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3015
+      },
+      "model": "minecraft:container/toggle_off"
     }
   ]
 }
