@@ -6,5 +6,9 @@
   "chant": {
     "sounds": [
       "custom:priest_chant"]
-    }
+    },
+    "join": {
+      "sounds": [
+        "custom:new_player_joined_sound"]
+      }
 }
