@@ -323,6 +323,69 @@
             "chars": [
                 "\uf044"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_questcoins.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_skymaster.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_starryking.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_cloudmaster.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_foggywarrior.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_main.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_meteorknight.png",
+            "ascent": 13,
+            "height": 260,
+            "chars": [
+                "\uf052"
+            ]
         }
     ]
 }

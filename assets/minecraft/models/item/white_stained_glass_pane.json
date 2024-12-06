@@ -93,6 +93,24 @@
         "custom_model_data": 3015
       },
       "model": "minecraft:container/toggle_off"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3016
+      },
+      "model": "minecraft:container/1_month"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3017
+      },
+      "model": "minecraft:container/1_year"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3018
+      },
+      "model": "minecraft:container/transparent"
     }
   ]
 }
