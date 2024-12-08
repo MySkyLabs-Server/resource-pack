@@ -5,6 +5,7 @@
   },
  
  "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "custom/dwarven_axe"}
+ {"predicate": {"custom_model_data":1}, "model": "custom/dwarven_axe"},
+ {"predicate": {"custom_model_data":2}, "model": "weapons/zwergen_axe"}
  ]
 }
