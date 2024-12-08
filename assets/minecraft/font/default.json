@@ -12,8 +12,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:sb/myskylabs.png",
-            "ascent": 90,
-            "height": 90,
+            "ascent": 15,
+            "height":20,
             "chars": [
                 "\uF001"
             ]
