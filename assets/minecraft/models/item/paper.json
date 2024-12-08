@@ -27,6 +27,10 @@
    { "predicate": { "custom_model_data": 2014 }, "model": "loots/cs_deepblue_line" },
    { "predicate": { "custom_model_data": 2015 }, "model": "loots/cs_deepblue_pole" },
    { "predicate": { "custom_model_data": 3016 }, "model": "archeology/arch_amber_lamp" },
-   { "predicate": { "custom_model_data": 3018 }, "model": "plants_props/lemon_stage_five" }
+   { "predicate": { "custom_model_data": 3018 }, "model": "plants_props/lemon_stage_five" },
+   { "predicate": { "custom_model_data": 3019 }, "model": "crates/gold_case" },
+   { "predicate": { "custom_model_data": 3020 }, "model": "crates/iron_case" },
+   { "predicate": { "custom_model_data": 3021 }, "model": "crates/wood_case" },
+   { "predicate": { "custom_model_data": 3022 }, "model": "crates/dirt_case" }
  ]
 }
