@@ -6,6 +6,7 @@
  
  "overrides": [
  {"predicate": {"custom_model_data":1001}, "model": "custom/seelenaxt"},
- {"predicate": {"custom_model_data":1002}, "model": "custom/timberaxt"}
+ {"predicate": {"custom_model_data":1002}, "model": "custom/timberaxt"},
+ {"predicate": {"custom_model_data":1003}, "model": "weapons/timberaxt_diamond"}
  ]
 }
