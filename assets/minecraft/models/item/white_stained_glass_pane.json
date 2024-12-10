@@ -111,6 +111,12 @@
         "custom_model_data": 3018
       },
       "model": "minecraft:container/transparent"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3019
+      },
+      "model": "minecraft:container/accept"
     }
   ]
 }
