@@ -117,6 +117,30 @@
         "custom_model_data": 3019
       },
       "model": "minecraft:container/accept"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3020
+      },
+      "model": "minecraft:container/quest_daily_rare"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3021
+      },
+      "model": "minecraft:container/quest_daily_epic"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3022
+      },
+      "model": "minecraft:container/quest_daily_legendary"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3023
+      },
+      "model": "minecraft:container/quest_daily_complete"
     }
   ]
 }
