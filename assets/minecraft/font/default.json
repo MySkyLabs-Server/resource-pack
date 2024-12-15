@@ -247,7 +247,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/smith_one.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 ""
             ]
@@ -256,7 +256,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/forge_menu.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 ""
             ]
@@ -265,7 +265,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/repair.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf03e"
             ]
@@ -274,7 +274,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/bundle.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf03f"
             ]
@@ -283,7 +283,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/verzauberungen.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf040"
             ]
@@ -292,7 +292,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/daily_rewards.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf041"
             ]
@@ -301,7 +301,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/quests_menu.png",
             "ascent": 10,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf042"
             ]
@@ -310,7 +310,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/your_island.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf043"
             ]
@@ -319,7 +319,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/island_set_1.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf044"
             ]
@@ -328,7 +328,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_questcoins.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf045"
             ]
@@ -337,7 +337,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_skymaster.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf046"
             ]
@@ -346,7 +346,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_starryking.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf047"
             ]
@@ -355,7 +355,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_cloudmaster.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf048"
             ]
@@ -364,7 +364,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_foggywarrior.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf049"
             ]
@@ -373,7 +373,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_main.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf050"
             ]
@@ -382,7 +382,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/shop_meteorknight.png",
             "ascent": 13,
-            "height": 260,
+            "height": 256,
             "chars": [
                 "\uf052"
             ]
@@ -394,6 +394,15 @@
             "height": 10,
             "chars": [
                 "\uf053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/case_opening.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf054"
             ]
         }
     ]
