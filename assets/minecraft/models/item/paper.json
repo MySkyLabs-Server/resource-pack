@@ -31,6 +31,10 @@
    { "predicate": { "custom_model_data": 3019 }, "model": "crates/gold_case" },
    { "predicate": { "custom_model_data": 3020 }, "model": "crates/iron_case" },
    { "predicate": { "custom_model_data": 3021 }, "model": "crates/wood_case" },
-   { "predicate": { "custom_model_data": 3022 }, "model": "crates/dirt_case" }
+   { "predicate": { "custom_model_data": 3022 }, "model": "crates/dirt_case" },
+   { "predicate": { "custom_model_data": 3023 }, "model": "waystones/waystone_base" },
+   { "predicate": { "custom_model_data": 3024 }, "model": "waystones/waystone_orb" },
+   { "predicate": { "custom_model_data": 3025 }, "model": "waystones/flying_core" },
+   { "predicate": { "custom_model_data": 3026 }, "model": "waystones/flying_station" }
  ]
 }
