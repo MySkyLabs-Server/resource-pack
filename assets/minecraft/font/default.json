@@ -404,6 +404,24 @@
             "chars": [
                 "\uf054"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_buy_rank.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/shop_buy_rank_confirm.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf056"
+            ]
         }
     ]
 }
