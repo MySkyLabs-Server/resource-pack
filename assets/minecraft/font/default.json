@@ -422,6 +422,15 @@
             "chars": [
                 "\uf056"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/kits.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf057"
+            ]
         }
     ]
 }
