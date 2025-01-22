@@ -431,6 +431,78 @@
             "chars": [
                 "\uf057"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/player_overview.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/all_online_players.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/party_overview.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/invite_tpa_party.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/invite_no.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/invite_tpa.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/invite_party.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf067"
+            ]
         }
     ]
 }
