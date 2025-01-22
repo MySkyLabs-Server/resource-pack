@@ -141,6 +141,42 @@
         "custom_model_data": 3023
       },
       "model": "minecraft:container/quest_daily_complete"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4000
+      },
+      "model": "minecraft:container/party_remove"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4001
+      },
+      "model": "minecraft:container/player_messages"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4002
+      },
+      "model": "minecraft:container/party_add_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4003
+      },
+      "model": "minecraft:container/player_pvp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4004
+      },
+      "model": "minecraft:container/player_mute"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4005
+      },
+      "model": "minecraft:container/player_home"
     }
   ]
 }
