@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_pickaxe"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom_pickaxes:pickaxes/vortex_pickaxe"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom_pickaxes:pickaxes/cosmic_horror_pickaxe"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom_pickaxes:pickaxes/otw_pickaxe"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom_pickaxes:pickaxes/solar_pickaxe"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom_pickaxes:pickaxes/martian_pickaxe"
+        },
+        "threshold": 5
+      }
+    ]
+  }
+}

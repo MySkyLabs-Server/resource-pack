@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "texture_size": [288, 288],
+  "textures": {
+    "layer0": "minecraft:item/slow"
+	}
+}

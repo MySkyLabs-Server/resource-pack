@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_sword"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/sword_fire_aspect"
+        },
+        "threshold": 1001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:weapons/moon_daggers"
+        },
+        "threshold": 1002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:weapons/soul_daggers"
+        },
+        "threshold": 1003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:weapons/sichel_silver"
+        },
+        "threshold": 1004
+      }
+    ]
+  }
+}

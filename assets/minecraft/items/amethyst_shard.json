@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/amethyst_shard"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/seelenkristall"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/seelenkristall_eins"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/soulnet"
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:custom/soul_extractor"
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:custom/beppo"
+        },
+        "threshold": 5
+      }
+    ]
+  }
+}

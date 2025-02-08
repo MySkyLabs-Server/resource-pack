@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "texture_size": [1876, 1876],
+    "textures": {
+      "layer0": "minecraft:item/cronstein"
+      }
+  }

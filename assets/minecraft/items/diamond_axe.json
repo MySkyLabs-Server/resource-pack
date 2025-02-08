@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_axe"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:custom/seelenaxt"
+        },
+        "threshold": 1001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:custom/timberaxt"
+        },
+        "threshold": 1002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:weapons/timberaxt_diamond"
+        },
+        "threshold": 1003
+      }
+    ]
+  }
+}

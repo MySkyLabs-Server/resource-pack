@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "texture_size": [20, 20],
+  "textures": {
+    "layer0": "minecraft:item/speedtwo"
+	}
+}

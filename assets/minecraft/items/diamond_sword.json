@@ -1,0 +1,111 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/diamond_sword"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/bord"
+          },
+          "threshold": 1000
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/irrlicht"
+          },
+          "threshold": 1001
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/helmet"
+          },
+          "threshold": 1002
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/miner"
+          },
+          "threshold": 1003
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/drink"
+          },
+          "threshold": 1004
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/foxear"
+          },
+          "threshold": 1005
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/king"
+          },
+          "threshold": 1006
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/devil"
+          },
+          "threshold": 1007
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/fisherhat"
+          },
+          "threshold": 1008
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/flowering"
+          },
+          "threshold": 1009
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/ufo_companion"
+          },
+          "threshold": 1010
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/air_balloon"
+          },
+          "threshold": 2001
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/sign_pvp"
+          },
+          "threshold": 2002
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:custom/sign_shop"
+          },
+          "threshold": 2003
+        }
+      ]
+    }
+  }

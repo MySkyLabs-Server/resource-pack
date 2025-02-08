@@ -1,0 +1,272 @@
+{
+	"model": {
+	  "type": "minecraft:range_dispatch",
+	  "property": "minecraft:custom_model_data",
+	  "index": 0,
+	  "fallback": {
+		"type": "minecraft:model",
+		"model": "minecraft:item/cookie"
+	  },
+	  "entries": [
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_azurathorn_cyclops"
+		  },
+		  "threshold": 2001
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_blobfish"
+		  },
+		  "threshold": 2002
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_blue_jellyfish"
+		  },
+		  "threshold": 2003
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_blue_tang"
+		  },
+		  "threshold": 2004
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_clam"
+		  },
+		  "threshold": 2005
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_cooked_flounder"
+		  },
+		  "threshold": 2006
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_cooked_moonveil_glider"
+		  },
+		  "threshold": 2007
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_cooked_shrimp"
+		  },
+		  "threshold": 2008
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_cooked_squid"
+		  },
+		  "threshold": 2009
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_cooked_stormshade_ripple"
+		  },
+		  "threshold": 2010
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_cooked_trout"
+		  },
+		  "threshold": 2011
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_conch_horizontal"
+		  },
+		  "threshold": 2012
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_conch_vertical"
+		  },
+		  "threshold": 2013
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_earthdrifter"
+		  },
+		  "threshold": 2014
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_emerald_trout"
+		  },
+		  "threshold": 2015
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_trout"
+		  },
+		  "threshold": 2016
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_whiskerwave_oracle"
+		  },
+		  "threshold": 2017
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_worm_bait"
+		  },
+		  "threshold": 2018
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_fish_bones"
+		  },
+		  "threshold": 2019
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_flounder"
+		  },
+		  "threshold": 2020
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_goldfish"
+		  },
+		  "threshold": 2021
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_maggot_bait"
+		  },
+		  "threshold": 2022
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_moonveil_glider"
+		  },
+		  "threshold": 2023
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_neon_finned_tuna"
+		  },
+		  "threshold": 2024
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_pink_jellyfish"
+		  },
+		  "threshold": 2025
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_rainbow_trout"
+		  },
+		  "threshold": 2026
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_rare_clownfish"
+		  },
+		  "threshold": 2027
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_red_crab"
+		  },
+		  "threshold": 2028
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_seahorse_red"
+		  },
+		  "threshold": 2029
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_seahorse_yellow"
+		  },
+		  "threshold": 2030
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_seastar"
+		  },
+		  "threshold": 2031
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_shadowfin"
+		  },
+		  "threshold": 2032
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_shrimp"
+		  },
+		  "threshold": 2033
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_smelt"
+		  },
+		  "threshold": 2034
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_squid"
+		  },
+		  "threshold": 2035
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_stingray"
+		  },
+		  "threshold": 2036
+		},
+		{
+		  "model": {
+			"type": "minecraft:model",
+			"model": "minecraft:food/cs_stormshade_ripple"
+		  },
+		  "threshold": 2037
+		}
+	  ]
+	}
+  }
