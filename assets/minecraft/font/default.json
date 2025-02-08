@@ -503,6 +503,24 @@
             "chars": [
                 "\uf072"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/left_click.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uf073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/right_click.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uf074"
+            ]
         }
     ]
 }
