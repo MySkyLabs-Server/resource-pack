@@ -177,6 +177,18 @@
         "custom_model_data": 4005
       },
       "model": "minecraft:container/player_home"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4006
+      },
+      "model": "minecraft:container/archer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4007
+      },
+      "model": "minecraft:container/sword_fight"
     }
   ]
 }
