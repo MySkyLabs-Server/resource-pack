@@ -9,6 +9,18 @@
         "custom_model_data": 3
       },
       "model": "minecraft:item/bord"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "minecraft:decoration/lightpostbase"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:decoration/lightposttop"
     }
   ]
 }
