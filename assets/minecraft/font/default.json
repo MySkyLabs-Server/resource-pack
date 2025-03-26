@@ -521,6 +521,33 @@
             "chars": [
                 "\uf074"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/home_main.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_homes.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/set_home.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf077"
+            ]
         }
     ]
 }
