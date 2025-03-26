@@ -524,7 +524,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/home_main.png",
+            "file": "minecraft:sb/homes_main.png",
             "ascent": 13,
             "height": 256,
             "chars": [
@@ -533,7 +533,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/your_homes.png",
+            "file": "minecraft:sb/homes_set.png",
             "ascent": 13,
             "height": 256,
             "chars": [
@@ -542,7 +542,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:sb/set_home.png",
+            "file": "minecraft:sb/homes_you.png",
             "ascent": 13,
             "height": 256,
             "chars": [
