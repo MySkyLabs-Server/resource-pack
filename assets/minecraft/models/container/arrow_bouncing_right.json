@@ -2,13 +2,13 @@
   "parent": "minecraft:item/generated",
   "texture_size": [16, 16],
   "textures": {
-    "layer0": "minecraft:item/container/arrow_bouncing_up"
+    "layer0": "minecraft:item/container/arrow_bouncing_right"
 	},
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [0, -1, 0],
-			"scale": [1.0, 1.0, 1.0]
+			"translation": [-1, 0, 0],
+			"scale": [ 1.0, 1.0, 1.0]
 		}
 	}
 }

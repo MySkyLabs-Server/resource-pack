@@ -183,6 +183,12 @@
         "custom_model_data": 4006
       },
       "model": "minecraft:container/arrow_bouncing_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4007
+      },
+      "model": "minecraft:container/arrow_bouncing_right"
     }
   ]
 }
