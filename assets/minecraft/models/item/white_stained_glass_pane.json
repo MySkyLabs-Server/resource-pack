@@ -177,6 +177,12 @@
         "custom_model_data": 4005
       },
       "model": "minecraft:container/player_home"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4006
+      },
+      "model": "minecraft:container/arrow_bouncing_up"
     }
   ]
 }

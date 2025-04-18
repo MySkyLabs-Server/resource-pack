@@ -548,6 +548,114 @@
             "chars": [
                 "\uf077"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/cooking_overview.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_jail.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_astro.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_yellow.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_pink.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_green.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_white.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_blue.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/your_player_overview_orange.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/fast_travel.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/lobby_band.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/craft_resources.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf089"
+            ]
         }
     ]
 }
