@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "item/cosmetic/beanie"
+	},
+	"elements": [
+		{
+			"from": [3.10325, 0.07375, 4.118],
+			"to": [11.99675, 1.9795, 13.0115],
+			"faces": {
+				"north": {"uv": [4.25, 5.25, 6.5, 5.75], "texture": "#1"},
+				"east": {"uv": [4.25, 5.75, 6.5, 6.25], "texture": "#1"},
+				"south": {"uv": [0, 6.25, 2.25, 6.75], "texture": "#1"},
+				"west": {"uv": [6.25, 0, 8.5, 0.5], "texture": "#1"},
+				"up": {"uv": [2.25, 2.25, 0, 0], "texture": "#1"},
+				"down": {"uv": [2.25, 2.25, 0, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [3.7385, 1.9795, 4.75325],
+			"to": [11.3615, 5.42625, 12.37625],
+			"faces": {
+				"north": {"uv": [4.25, 0, 6.125, 0.875], "texture": "#1"},
+				"east": {"uv": [4.25, 1, 6.125, 1.875], "texture": "#1"},
+				"south": {"uv": [4.25, 2, 6.125, 2.875], "texture": "#1"},
+				"west": {"uv": [4.25, 3, 6.125, 3.875], "texture": "#1"},
+				"up": {"uv": [4.125, 1.875, 2.25, 0], "texture": "#1"},
+				"down": {"uv": [4.125, 2, 2.25, 3.875], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.7385, 7.38226, 4.33005],
+			"to": [10.3615, 11.13226, 9.45305],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [0, 3.5, -0.75]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 1.375, 5.5], "texture": "#1"},
+				"east": {"uv": [3, 5.25, 4.25, 6.25], "texture": "#1"},
+				"south": {"uv": [1.5, 5.25, 2.875, 6.25], "texture": "#1"},
+				"west": {"uv": [5.25, 4, 6.5, 5], "texture": "#1"},
+				"up": {"uv": [3.625, 5.25, 2.25, 4], "texture": "#1"},
+				"down": {"uv": [5.125, 4, 3.75, 5.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 0, 1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 0, 1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2, 0]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [-160, 45, -180],
+			"translation": [-0.5, 3.5, 0]
+		},
+		"head": {
+			"rotation": [5, 0, 0],
+			"translation": [1, 17, 0],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"translation": [0, 3.5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "beanie",
+			"origin": [7.55, 4.097, 8.56475],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

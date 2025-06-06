@@ -189,6 +189,12 @@
         "custom_model_data": 4007
       },
       "model": "minecraft:container/arrow_bouncing_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4008
+      },
+      "model": "minecraft:container/set_bounty"
     }
   ]
 }

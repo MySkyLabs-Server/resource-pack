@@ -656,6 +656,60 @@
             "chars": [
                 "\uf089"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/anvil.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf090"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/select_hunted_player.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf091"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/current_bountyhunt.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf092"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/bounty_main.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf093"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/hunted_players.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf094"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sb/cosmetics_main_blank.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\uf095"
+            ]
         }
     ]
 }

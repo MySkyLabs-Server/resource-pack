@@ -1,0 +1,41 @@
+{
+	"credit": "Made by samus2002",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/cosmetic/cosmetic_beehive",
+		"particle": "samus_cosmetics_1_texture/cosmetic_beehive"
+	},
+	"elements": [
+		{
+			"from": [3, 3.25, 3],
+			"to": [13, 15.25, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 10.25, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 6], "texture": "#0"},
+				"east": {"uv": [5.5, 0, 10.5, 6], "texture": "#0"},
+				"south": {"uv": [0, 6.5, 5, 12.5], "texture": "#0"},
+				"west": {"uv": [5.5, 6.5, 10.5, 12.5], "texture": "#0"},
+				"up": {"uv": [16, 5, 11, 0], "texture": "#0"},
+				"down": {"uv": [16, 5.5, 11, 10.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"translation": [0, 2.5, 0]
+		},
+		"gui": {
+			"rotation": [18, 148, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 0.5, 0],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"fixed": {
+			"translation": [0, -1, 0]
+		}
+	}
+}

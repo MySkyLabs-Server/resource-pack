@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "texture_size": [1024, 1024],
+    "textures": {
+      "layer0": "minecraft:item/container/set_bounty"
+      },
+      "gui_light": "front",
+      "display": {
+          "gui": {
+              "translation": [0, 0, 0],
+              "scale": [ 20.0, 10.0, 1.0]
+          }
+      }
+  }

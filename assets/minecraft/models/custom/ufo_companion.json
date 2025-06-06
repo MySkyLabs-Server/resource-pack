@@ -515,8 +515,14 @@
 			"translation": [0, 80, 0],
 			"scale": [4, 4, 4]
 		},
+		"gui": {
+			"rotation": [-161.5, 21.25, -180],
+			"translation": [0, 1.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
 		"head": {
-			"translation": [0, 13, 0]
+			"translation": [0, 26.5, 0],
+			"scale": [1.4, 1.4, 1.4]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],

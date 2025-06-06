@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "cosmetics/hats/halo"
+	},
+	"elements": [
+		{
+			"from": [4.62137, 0.63863, 4.22285],
+			"to": [11.62137, 0.63863, 11.22285],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.12137, 0.63863, 7.72285]},
+			"faces": {
+				"north": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 7, 0], "texture": "#1"},
+				"up": {"uv": [7, 7, 0, 0], "texture": "#1"},
+				"down": {"uv": [7, 7, 0, 14], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 4, 7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [0, 4, 7]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 7, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 7, 0]
+		},
+		"ground": {
+			"translation": [0, 13, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [25, 45, 0],
+			"translation": [0, 8.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [12.5, 0, 0],
+			"translation": [0, 25, 3.5],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"translation": [0, 11, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "halo",
+			"origin": [8.12137, 0.63863, 7.72285],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

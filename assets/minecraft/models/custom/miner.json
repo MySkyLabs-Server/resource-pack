@@ -60,7 +60,9 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"gui": {
-			"translation": [0, 3.5, 0]
+			"rotation": [26.25, -13, 0],
+			"translation": [0, 3.5, -2],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
 			"rotation": [2, 180, 0],
