@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/drowned_hat_texture",
+		"0": "item/cosmetic/drowned_hat_texture",
 		"particle": "custom_hats/drowned_hat_texture"
 	},
 	"elements": [
@@ -616,9 +616,8 @@
 			"scale": [1.13, 1.13, 1.13]
 		},
 		"gui": {
-			"rotation": [-150.63, -12.73, -166.94],
-			"translation": [-2.5, 9.5, 0],
-			"scale": [1.43, 1.43, 1.43]
+			"rotation": [-160, 36.75, 180],
+			"translation": [-0.5, 6.25, 0]
 		},
 		"head": {
 			"translation": [5.75, 15.75, 5.75],
@@ -635,13 +634,11 @@
 			"name": "drowned_hat",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				{
 					"name": "hat",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [
 						0,
 						1,
@@ -649,7 +646,6 @@
 							"name": "right_ear",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"nbt": "{}",
 							"children": [2]
 						},
 						3,
@@ -677,7 +673,6 @@
 							"name": "left_ear",
 							"origin": [16, 0, 0],
 							"color": 0,
-							"nbt": "{}",
 							"children": [24, 25, 26, 27, 28]
 						},
 						29,
@@ -699,7 +694,6 @@
 					"name": "trident",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [42, 43, 44, 45, 46, 47]
 				}
 			]

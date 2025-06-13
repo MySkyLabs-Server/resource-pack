@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [32, 32],
 	"textures": {
-		"main": "cosmetics/hats/cosmetic_headphones_a"
+		"main": "item/cosmetic/cosmetic_headphones_a"
 	},
 	"elements": [
 		{

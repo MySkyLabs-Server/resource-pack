@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/cosmetic_ent_titans_mask",
-		"1": "cosmetics/hats/ent_titans_mask_vfx",
+		"0": "item/cosmetic/cosmetic_ent_titans_mask",
+		"1": "item/cosmetic/ent_titans_mask_vfx",
 		"particle": "samus_cosmetics_1_texture/cosmetic_ent_titans_mask"
 	},
 	"elements": [

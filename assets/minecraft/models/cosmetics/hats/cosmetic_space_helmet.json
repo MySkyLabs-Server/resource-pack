@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/cosmetic_space_helmet",
+		"0": "item/cosmetic/cosmetic_space_helmet",
 		"particle": "samus_cosmetics_1_texture/cosmetic_space_helmet"
 	},
 	"elements": [

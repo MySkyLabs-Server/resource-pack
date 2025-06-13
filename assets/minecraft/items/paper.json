@@ -1,0 +1,202 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/ticket"
+        },
+        "threshold": 1001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/ticket"
+        },
+        "threshold": 1002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_iron_bobber"
+        },
+        "threshold": 2001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_red_bobber"
+        },
+        "threshold": 2002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_yellow_bobber"
+        },
+        "threshold": 2003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_black_pearl"
+        },
+        "threshold": 2004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_white_pearl"
+        },
+        "threshold": 2005
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_copper_chest"
+        },
+        "threshold": 2006
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_iron_chest"
+        },
+        "threshold": 2007
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_golden_chest"
+        },
+        "threshold": 2008
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_fish_bait_blue"
+        },
+        "threshold": 2009
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_fish_bait_green"
+        },
+        "threshold": 2010
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_fish_bait_red"
+        },
+        "threshold": 2011
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_gilded_line"
+        },
+        "threshold": 2012
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_gilded_pole"
+        },
+        "threshold": 2013
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_deepblue_line"
+        },
+        "threshold": 2014
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "loots/cs_deepblue_pole"
+        },
+        "threshold": 2015
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "archeology/arch_amber_lamp"
+        },
+        "threshold": 3016
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "plants_props/lemon_stage_five"
+        },
+        "threshold": 3018
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "crates/gold_case"
+        },
+        "threshold": 3019
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "crates/iron_case"
+        },
+        "threshold": 3020
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "crates/wood_case"
+        },
+        "threshold": 3021
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "crates/dirt_case"
+        },
+        "threshold": 3022
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "waystones/waystone_base"
+        },
+        "threshold": 3023
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "waystones/waystone_orb"
+        },
+        "threshold": 3024
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "waystones/flying_core"
+        },
+        "threshold": 3025
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "waystones/flying_station"
+        },
+        "threshold": 3026
+      }
+    ]
+  }
+}

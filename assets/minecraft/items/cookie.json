@@ -1,0 +1,783 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cookie"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_azurathorn_cyclops"
+        },
+        "threshold": 2001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_blobfish"
+        },
+        "threshold": 2002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_blue_jellyfish"
+        },
+        "threshold": 2003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_blue_tang"
+        },
+        "threshold": 2004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_clam"
+        },
+        "threshold": 2005
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_cooked_flounder"
+        },
+        "threshold": 2006
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_cooked_moonveil_glider"
+        },
+        "threshold": 2007
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_cooked_shrimp"
+        },
+        "threshold": 2008
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_cooked_squid"
+        },
+        "threshold": 2009
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_cooked_stormshade_ripple"
+        },
+        "threshold": 2010
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_cooked_trout"
+        },
+        "threshold": 2011
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_conch_horizontal"
+        },
+        "threshold": 2012
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_conch_vertical"
+        },
+        "threshold": 2013
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_earthdrifter"
+        },
+        "threshold": 2014
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_emerald_trout"
+        },
+        "threshold": 2015
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_trout"
+        },
+        "threshold": 2016
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_whiskerwave_oracle"
+        },
+        "threshold": 2017
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_worm_bait"
+        },
+        "threshold": 2018
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_fish_bones"
+        },
+        "threshold": 2019
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_flounder"
+        },
+        "threshold": 2020
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_goldfish"
+        },
+        "threshold": 2021
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_maggot_bait"
+        },
+        "threshold": 2022
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_moonveil_glider"
+        },
+        "threshold": 2023
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_neon_finned_tuna"
+        },
+        "threshold": 2024
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_pink_jellyfish"
+        },
+        "threshold": 2025
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_rainbow_trout"
+        },
+        "threshold": 2026
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_rare_clownfish"
+        },
+        "threshold": 2027
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_red_crab"
+        },
+        "threshold": 2028
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_seahorse_red"
+        },
+        "threshold": 2029
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_seahorse_yellow"
+        },
+        "threshold": 2030
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_seastar"
+        },
+        "threshold": 2031
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_shadowfin"
+        },
+        "threshold": 2032
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_shrimp"
+        },
+        "threshold": 2033
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_smelt"
+        },
+        "threshold": 2034
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_squid"
+        },
+        "threshold": 2035
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food/cs_stingray"
+        },
+        "threshold": 2036
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/apple_dessert"
+        },
+        "threshold": 2037
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/butter"
+        },
+        "threshold": 2038
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/cabbage"
+        },
+        "threshold": 2039
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/cake_with_chocolate"
+        },
+        "threshold": 2040
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/came"
+        },
+        "threshold": 2041
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/cheese"
+        },
+        "threshold": 2042
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/cheese_pizza"
+        },
+        "threshold": 2043
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/cheese_salad"
+        },
+        "threshold": 2044
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/chips"
+        },
+        "threshold": 2045
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/chocolate_bar"
+        },
+        "threshold": 2046
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/coconut"
+        },
+        "threshold": 2047
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/coffee_bag"
+        },
+        "threshold": 2048
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/flour"
+        },
+        "threshold": 2049
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/frappe"
+        },
+        "threshold": 2050
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/hamburger"
+        },
+        "threshold": 2051
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/hot_cocoa_mix"
+        },
+        "threshold": 2052
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/ice_cream_with_cream_and_strawberry"
+        },
+        "threshold": 2053
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/lemon"
+        },
+        "threshold": 2054
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/lemon_shot2"
+        },
+        "threshold": 2055
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/meat_sandwich"
+        },
+        "threshold": 2056
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/mexican_cake"
+        },
+        "threshold": 2057
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/olive_oil"
+        },
+        "threshold": 2058
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/onion"
+        },
+        "threshold": 2059
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/pancakes"
+        },
+        "threshold": 2060
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/pear"
+        },
+        "threshold": 2061
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/pear_dessert"
+        },
+        "threshold": 2062
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/premium_shake"
+        },
+        "threshold": 2063
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/regular_burger"
+        },
+        "threshold": 2064
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/regular_pizza"
+        },
+        "threshold": 2065
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/roasted_carrot"
+        },
+        "threshold": 2066
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/stick_ice_cream"
+        },
+        "threshold": 2067
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/strawberry"
+        },
+        "threshold": 2068
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/strawberry_syrup"
+        },
+        "threshold": 2068
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/toasted_pizza"
+        },
+        "threshold": 2069
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/tomato"
+        },
+        "threshold": 2070
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "food_1/tomato_and_cheese"
+        },
+        "threshold": 2071
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/adventure_hat"
+        },
+        "threshold": 3029
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/aviatorhat"
+        },
+        "threshold": 3030
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/bandana"
+        },
+        "threshold": 3031
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/beanie"
+        },
+        "threshold": 3032
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/bearhat"
+        },
+        "threshold": 3033
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/beehive_hat"
+        },
+        "threshold": 3034
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/blossom_hat"
+        },
+        "threshold": 3035
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/brown_paper_bag_hat"
+        },
+        "threshold": 3036
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/bumble_bee_hat"
+        },
+        "threshold": 3037
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/butterfly_hat"
+        },
+        "threshold": 3038
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cap"
+        },
+        "threshold": 3039
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/captainhat"
+        },
+        "threshold": 3040
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/capybara_hat"
+        },
+        "threshold": 3041
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cherry_blossom_hat"
+        },
+        "threshold": 3042
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/clownhat"
+        },
+        "threshold": 3043
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_beehive"
+        },
+        "threshold": 3044
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_box"
+        },
+        "threshold": 3045
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_chicken"
+        },
+        "threshold": 3046
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_cyborg_visor_blue"
+        },
+        "threshold": 3047
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_cyborg_visor_red"
+        },
+        "threshold": 3048
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_cyborg_visor_green"
+        },
+        "threshold": 3049
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_dragons_head_aether"
+        },
+        "threshold": 3050
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cowboyhat"
+        },
+        "threshold": 3051
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_dragons_head_green"
+        },
+        "threshold": 3052
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_dragons_head_nether"
+        },
+        "threshold": 3053
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_ent_titans_mask"
+        },
+        "threshold": 3054
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_frog_a"
+        },
+        "threshold": 3055
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_gas_mask"
+        },
+        "threshold": 3056
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_glacial_crown"
+        },
+        "threshold": 3057
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_headphones_a"
+        },
+        "threshold": 3058
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_helmet_of_rage"
+        },
+        "threshold": 3059
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_phoenix_helm"
+        },
+        "threshold": 3060
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_pufferfish"
+        },
+        "threshold": 3061
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_space_helmet"
+        },
+        "threshold": 3062
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/cosmetic_top_hat"
+        },
+        "threshold": 3063
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/detectivehat"
+        },
+        "threshold": 3064
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/drowned_hat"
+        },
+        "threshold": 3065
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics/hats/duck_hat"
+        },
+        "threshold": 3066
+      }
+    ]
+  }
+}

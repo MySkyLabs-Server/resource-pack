@@ -1,0 +1,265 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/white_stained_glass_pane"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/arrow_up"
+        },
+        "threshold": 3001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/arrow_down"
+        },
+        "threshold": 3002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/question_container"
+        },
+        "threshold": 3003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/komprimieren"
+        },
+        "threshold": 3004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/bundle"
+        },
+        "threshold": 3005
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/hammer"
+        },
+        "threshold": 3006
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/pressed_hammer"
+        },
+        "threshold": 3007
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/pressed_komprimieren"
+        },
+        "threshold": 3008
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/pressed_bundle"
+        },
+        "threshold": 3009
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/x"
+        },
+        "threshold": 3010
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/arrow_right"
+        },
+        "threshold": 3011
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/arrow_left"
+        },
+        "threshold": 3012
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/settings"
+        },
+        "threshold": 3013
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/toggle_on"
+        },
+        "threshold": 3014
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/toggle_off"
+        },
+        "threshold": 3015
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/1_month"
+        },
+        "threshold": 3016
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/1_year"
+        },
+        "threshold": 3017
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/transparent"
+        },
+        "threshold": 3018
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/accept"
+        },
+        "threshold": 3019
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/quest_daily_rare"
+        },
+        "threshold": 3020
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/quest_daily_epic"
+        },
+        "threshold": 3021
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/quest_daily_legendary"
+        },
+        "threshold": 3022
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/quest_daily_complete"
+        },
+        "threshold": 3023
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/party_remove_player"
+        },
+        "threshold": 4000
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/player_messages"
+        },
+        "threshold": 4001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/party_add_player"
+        },
+        "threshold": 4002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/player_pvp"
+        },
+        "threshold": 4003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/player_mute"
+        },
+        "threshold": 4004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/player_home"
+        },
+        "threshold": 4005
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/arrow_bouncing_up"
+        },
+        "threshold": 4006
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/arrow_bouncing_right"
+        },
+        "threshold": 4007
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/set_bounty"
+        },
+        "threshold": 4009
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/hats"
+        },
+        "threshold": 4010
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/emojies"
+        },
+        "threshold": 4011
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/bags"
+        },
+        "threshold": 4012
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/balloon"
+        },
+        "threshold": 4013
+      }
+    ]
+  }
+}

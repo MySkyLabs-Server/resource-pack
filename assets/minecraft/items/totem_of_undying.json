@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/totem_of_undying"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/totem_of_magicians"
+        },
+        "threshold": 1001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/soulnet"
+        },
+        "threshold": 2001
+      }
+    ]
+  }
+}

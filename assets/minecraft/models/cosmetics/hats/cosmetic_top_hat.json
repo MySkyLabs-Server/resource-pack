@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/cosmetic_top_hat",
+		"0": "item/cosmetic/cosmetic_top_hat",
 		"particle": "samus_cosmetics_1_texture/cosmetic_top_hat"
 	},
 	"elements": [
@@ -44,7 +44,7 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [0, 0.5, 0],
+			"rotation": [5.5, 0, 0],
 			"scale": [1.65, 1.65, 1.65]
 		},
 		"fixed": {

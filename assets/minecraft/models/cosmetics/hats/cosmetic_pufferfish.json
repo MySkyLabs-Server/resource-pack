@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/cosmetics_pufferfish",
+		"0": "item/cosmetic/cosmetics_pufferfish",
 		"particle": "samus_cosmetics_1_texture/cosmetics_pufferfish"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/galaxy_hat_texture",
+		"0": "item/cosmetic/galaxy_hat_texture",
 		"particle": "custom_hats/galaxy_hat_texture"
 	},
 	"elements": [

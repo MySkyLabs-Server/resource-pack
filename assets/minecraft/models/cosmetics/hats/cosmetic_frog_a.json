@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"main": "cosmetics/hats/cosmetic_frog_a"
+		"main": "item/cosmetic/cosmetic_frog_a"
 	},
 	"elements": [
 		{

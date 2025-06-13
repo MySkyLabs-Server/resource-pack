@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_axe"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/dwarven_axe"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "weapons/zwergen_axe"
+        },
+        "threshold": 2
+      }
+    ]
+  }
+}

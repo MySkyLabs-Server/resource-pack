@@ -192,9 +192,33 @@
     },
     {
       "predicate": {
-        "custom_model_data": 4008
+        "custom_model_data": 4009
       },
       "model": "minecraft:container/set_bounty"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4010
+      },
+      "model": "minecraft:container/hats"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4011
+      },
+      "model": "minecraft:container/emojies"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4012
+      },
+      "model": "minecraft:container/bags"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4013
+      },
+      "model": "minecraft:container/balloon"
     }
   ]
 }

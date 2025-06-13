@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/cosmetic_glacial_crown",
+		"0": "item/cosmetic/cosmetic_glacial_crown",
 		"particle": "samus_cosmetics_1_texture/cosmetic_glacial_crown"
 	},
 	"elements": [

@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cosmetics/hats/cosmetic_phoenix_helm_texture",
-		"1": "cosmetics/hats/phoenix_flame_vfx",
+		"0": "item/cosmetic/cosmetic_phoenix_helm_texture",
+		"1": "item/cosmetic/phoenix_flame_vfx",
 		"particle": "samus_cosmetics_1_texture/cosmetic_phoenix_helm_texture"
 	},
 	"elements": [

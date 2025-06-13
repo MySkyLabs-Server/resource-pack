@@ -97,6 +97,22 @@
 		{ "predicate": { "custom_model_data": 3047 }, "model": "cosmetics/hats/cosmetic_cyborg_visor_blue" },
 		{ "predicate": { "custom_model_data": 3048 }, "model": "cosmetics/hats/cosmetic_cyborg_visor_red" },
 		{ "predicate": { "custom_model_data": 3049 }, "model": "cosmetics/hats/cosmetic_cyborg_visor_green" },
-		{ "predicate": { "custom_model_data": 3050 }, "model": "cosmetics/hats/cosmetic_dragons_head_aether" }
+		{ "predicate": { "custom_model_data": 3050 }, "model": "cosmetics/hats/cosmetic_dragons_head_aether" },
+		{ "predicate": { "custom_model_data": 3051 }, "model": "cosmetics/hats/cowboyhat" },
+		{ "predicate": { "custom_model_data": 3052 }, "model": "cosmetics/hats/cosmetic_dragons_head_green" },
+		{ "predicate": { "custom_model_data": 3053 }, "model": "cosmetics/hats/cosmetic_dragons_head_nether" },
+		{ "predicate": { "custom_model_data": 3054 }, "model": "cosmetics/hats/cosmetic_ent_titans_mask" },
+		{ "predicate": { "custom_model_data": 3055 }, "model": "cosmetics/hats/cosmetic_frog_a" },
+		{ "predicate": { "custom_model_data": 3056 }, "model": "cosmetics/hats/cosmetic_gas_mask" },
+		{ "predicate": { "custom_model_data": 3057 }, "model": "cosmetics/hats/cosmetic_glacial_crown" },
+		{ "predicate": { "custom_model_data": 3058 }, "model": "cosmetics/hats/cosmetic_headphones_a" },
+		{ "predicate": { "custom_model_data": 3059 }, "model": "cosmetics/hats/cosmetic_helmet_of_rage" },
+		{ "predicate": { "custom_model_data": 3060 }, "model": "cosmetics/hats/cosmetic_phoenix_helm" },
+		{ "predicate": { "custom_model_data": 3061 }, "model": "cosmetics/hats/cosmetic_pufferfish" },
+		{ "predicate": { "custom_model_data": 3062 }, "model": "cosmetics/hats/cosmetic_space_helmet" },
+		{ "predicate": { "custom_model_data": 3063 }, "model": "cosmetics/hats/cosmetic_top_hat" },
+		{ "predicate": { "custom_model_data": 3064 }, "model": "cosmetics/hats/detectivehat" },
+		{ "predicate": { "custom_model_data": 3065 }, "model": "cosmetics/hats/drowned_hat" },
+		{ "predicate": { "custom_model_data": 3066 }, "model": "cosmetics/hats/duck_hat" }
     ]
 }

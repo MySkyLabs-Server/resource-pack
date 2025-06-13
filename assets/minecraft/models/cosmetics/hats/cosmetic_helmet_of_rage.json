@@ -2,7 +2,7 @@
 	"credit": "Made by samus2002",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "cosmetics/hats/cosmetic_helmet_of_rage",
+		"0": "item/cosmetic/cosmetic_helmet_of_rage",
 		"particle": "samus_cosmetics_1_texture/cosmetic_helmet_of_rage"
 	},
 	"elements": [
