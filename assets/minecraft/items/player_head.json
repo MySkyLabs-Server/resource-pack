@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+
+      { "threshold": 1000, "model": { "type": "special", "base": "custom/ui/small_head", "model": { "type": "head", "kind": "player" } } },
+      { "threshold": 1001, "model": { "type": "special", "base": "custom/ui/large_player_head", "model": { "type": "head", "kind": "player" } } },
+      { "threshold": 1002, "model": { "type": "special", "base": "custom/ui/little_head", "model": { "type": "head", "kind": "player" } } }
+
+    ],
+    "fallback": {
+      "type": "special", "base": "item/template_skull", "model": { "type": "head", "kind": "player" }
+    }
+  }
+}

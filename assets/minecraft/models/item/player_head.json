@@ -2,8 +2,8 @@
 	"parent":"minecraft:item/template_skull",
 	"overrides":
 	[
-		{"predicate":{"custom_model_data":1000},"model":"item/little_head"},
+		{"predicate":{"custom_model_data":1002},"model":"item/little_head"},
 		{"predicate":{"custom_model_data":1001},"model":"item/big_head"},
-		{"predicate":{"custom_model_data":1002},"model":"item/small_head"}
+		{"predicate":{"custom_model_data":1000},"model":"item/small_head"}
 	]
 }
