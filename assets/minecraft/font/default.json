@@ -184,7 +184,7 @@
             "type": "bitmap",
             "file": "minecraft:sb/version.png",
             "ascent": 11,
-            "height": 11,
+            "height": 18,
             "chars": [
                 "\uF033"
             ]
