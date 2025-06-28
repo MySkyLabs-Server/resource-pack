@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "condition",
+          "property": "fishing_rod/cast",
+          "on_true": { "type": "model", "model": "custom/grappling_bow_cast" },
+          "on_false": { "type": "model", "model": "custom/grappling_bow" }
+        }
+      },
+      {
+        "threshold": 2001,
+        "model": {
+          "type": "condition",
+          "property": "fishing_rod/cast",
+          "on_true": { "type": "model", "model": "cubosynth:tools/cs_deepblue_fishing_rod_cast" },
+          "on_false": { "type": "model", "model": "cubosynth:tools/cs_deepblue_fishing_rod" }
+        }
+      },
+      {
+        "threshold": 2002,
+        "model": { "type": "model", "model": "cubosynth:tools/cs_diamond_fishing_rod" }
+      },
+      {
+        "threshold": 2003,
+        "model": { "type": "model", "model": "cubosynth:tools/cs_gilded_fishing_rod" }
+      }
+    ],
+    "fallback": {
+      "type": "condition",
+      "property": "fishing_rod/cast",
+      "on_true": { "type": "model", "model": "item/fishing_rod_cast" },
+      "on_false": { "type": "model", "model": "item/fishing_rod" }
+    }
+  }
+}

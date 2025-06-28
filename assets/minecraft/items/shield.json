@@ -1,0 +1,41 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"entries": [
+			{
+				"threshold": 2,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "weapons/shield_tank"
+					},
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "weapons/shield_tank"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:condition",
+			"property": "minecraft:using_item",
+			"on_true": {
+				"type": "minecraft:special",
+				"model": {
+					"type": "minecraft:shield"
+				},
+				"base": "item/shield_blocking"
+			},
+			"on_false": {
+				"type": "minecraft:special",
+				"model": {
+					"type": "minecraft:shield"
+				},
+				"base": "item/shield"
+			}
+		}
+	}
+}
