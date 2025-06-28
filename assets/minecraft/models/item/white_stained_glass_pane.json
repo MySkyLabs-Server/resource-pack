@@ -219,6 +219,18 @@
         "custom_model_data": 4013
       },
       "model": "minecraft:container/balloon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4014
+      },
+      "model": "minecraft:container/discord"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4015
+      },
+      "model": "minecraft:container/report_player"
     }
   ]
 }
