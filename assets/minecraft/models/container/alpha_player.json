@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "texture_size": [16, 16],
+    "textures": {
+      "layer0": "minecraft:item/container/alpha_player"
+      },
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-10, 0, 0],
+			"scale": [1.5, 0.5, 1]
+		}
+	}
+}

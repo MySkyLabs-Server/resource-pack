@@ -273,6 +273,27 @@
           "model": "container/discord"
         },
         "threshold": 4015
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/release_player"
+        },
+        "threshold": 3024
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/beta_player"
+        },
+        "threshold": 3025
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/alpha_player"
+        },
+        "threshold": 3026
       }
     ]
   }

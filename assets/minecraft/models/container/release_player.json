@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "texture_size": [16, 16],
+    "textures": {
+      "layer0": "minecraft:item/container/release_player"
+      },
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-7, 0, 0],
+			"scale": [1.9, 0.5, 1]
+		}
+	}
+}

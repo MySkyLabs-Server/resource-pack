@@ -231,6 +231,24 @@
         "custom_model_data": 4015
       },
       "model": "minecraft:container/report_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3024
+      },
+      "model": "minecraft:container/release_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3025
+      },
+      "model": "minecraft:container/beta_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3026
+      },
+      "model": "minecraft:container/alpha_player"
     }
   ]
 }
