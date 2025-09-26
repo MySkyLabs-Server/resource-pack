@@ -294,6 +294,20 @@
           "model": "container/alpha_player"
         },
         "threshold": 3026
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/player_background"
+        },
+        "threshold": 4020
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/balloons"
+        },
+        "threshold": 4021
       }
     ]
   }

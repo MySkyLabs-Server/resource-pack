@@ -710,6 +710,15 @@
             "chars": [
                 "\uf095"
             ]
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:sb/kick_party_members.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\uf096"
+            ]
         }
     ]
 }
