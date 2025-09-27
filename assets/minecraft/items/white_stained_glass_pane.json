@@ -277,6 +277,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "container/party_leave"
+        },
+        "threshold": 4016
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "container/release_player"
         },
         "threshold": 3024
