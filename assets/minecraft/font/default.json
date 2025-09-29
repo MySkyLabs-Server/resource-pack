@@ -147,8 +147,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:sb/myskylabs_three.png",
-            "ascent": 50,
-            "height": 160,
+            "ascent": 70,
+            "height": 140,
             "chars": [
                 "\uF029"
             ]
@@ -718,6 +718,33 @@
             "height": 256,
             "chars": [
                 "\uf096"
+            ]
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:sb/playermenu_settings.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf097"
+            ]
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:sb/playermenu_background.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf098"
+            ]
+        },
+         {
+            "type": "bitmap",
+            "file": "minecraft:sb/playermenu_stats.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uf099"
             ]
         }
     ]
