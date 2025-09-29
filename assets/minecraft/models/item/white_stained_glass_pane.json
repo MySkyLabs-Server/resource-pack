@@ -255,6 +255,60 @@
         "custom_model_data": 3026
       },
       "model": "minecraft:container/alpha_player"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3027
+      },
+      "model": "minecraft:container/number_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3028
+      },
+      "model": "minecraft:container/number_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3029
+      },
+      "model": "minecraft:container/number_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3030
+      },
+      "model": "minecraft:container/number_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3031
+      },
+      "model": "minecraft:container/number_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3032
+      },
+      "model": "minecraft:container/number_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3033
+      },
+      "model": "minecraft:container/number_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3034
+      },
+      "model": "minecraft:container/number_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3035
+      },
+      "model": "minecraft:container/number_9"
     }
   ]
 }

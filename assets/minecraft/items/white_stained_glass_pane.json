@@ -305,6 +305,61 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "container/number_1"
+        },
+        "threshold": 3027
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_2"
+        },
+        "threshold": 3028
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_3"
+        },
+        "threshold": 3029
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_4"
+        },
+        "threshold": 3030
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_5"
+        },
+        "threshold": 3031
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_6"
+        },
+        "threshold": 3032
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_7"
+        },
+        "threshold": 3033
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_8"
+        },
+        "threshold": 3034
+      },{
+        "model": {
+          "type": "minecraft:model",
+          "model": "container/number_9"
+        },
+        "threshold": 3035
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "container/player_background"
         },
         "threshold": 4020
