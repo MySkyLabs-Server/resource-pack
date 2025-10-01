@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "age=0": {
+            "model": "minecraft:block/twisting_vines"
+        },
+        "age=1": {
+            "model": "custom/furniture/bandit/hanging_rope_top"
+        },
+        "age=2": {
+            "model": "custom/furniture/bandit/hanging_rope_bottom"
+        }
+    }
+}
