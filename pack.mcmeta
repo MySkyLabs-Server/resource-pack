@@ -1,6 +1,28 @@
 {
-  "pack": {
-    "pack_format": 22,
-    "description": "\u00A7r\u00A7f          \u00A7r\u00A7f\n\u00A7r\u00A7b\u00A7l   Texturen \u00A78©"
-  }
+    "pack": {
+        "pack_format": 32,
+        "supported_formats": [
+            32,
+            64
+        ],
+        "description": "\u00A7r\u00A7f          \u00A7r\u00A7f\n\u00A7r\u00A7b\u00A7l   Texturen \u00A78©"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "overlay_1_21_4",
+                "formats": [
+                    46,
+                    64
+                ]
+            },
+            {
+                "directory": "overlay_1_21_6",
+                "formats": [
+                    63,
+                    64
+                ]
+            }
+        ]
+    }
 }
